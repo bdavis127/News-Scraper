@@ -8,6 +8,6 @@ Axios
 Express
 Mongoose
 
-# Live Link
+# Heroku Link
 
-https://bdavis127.github.io/News-Scraper/
+https://boiling-plains-87043.herokuapp.com/
